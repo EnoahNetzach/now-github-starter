@@ -1,0 +1,12 @@
+{
+  "name": "now-github-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EnoahNetzach/now-github-starter.git",
+  "author": "Enoah Netzach <fabrizio.castellarin@cleafy.com>",
+  "license": "none",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
